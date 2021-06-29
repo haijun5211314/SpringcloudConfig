@@ -1,9 +1,2 @@
-server:
-  port: 80
-
-spring:
-  application:
-    name: cloud-consumer-order
-  cloud:
-    zookeeper:
-      connect-string: localhost:2181
+config:
+  info: "test 111111 version = 1"
